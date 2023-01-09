@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  charts-ingress:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-09T16:46:30.236505169+07:00"
+    description: A Helm chart for my ingress application
+    digest: 0d81381d835b3d51d8eddd3150519f0cba113e3eafa2ebf3fb27b90593aabeac
+    name: charts-ingress
+    type: application
+    urls:
+    - https://github.com/vietlt/helmchart/charts-ingress-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-09T16:46:30.236065284+07:00"
