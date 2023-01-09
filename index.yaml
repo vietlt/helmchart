@@ -9,6 +9,6 @@ entries:
     name: charts-ingress
     type: application
     urls:
-    - https://github.com/vietlt/helmchart/charts-ingress-0.1.0.tgz
+    - charts-ingress-0.1.0.tgz
     version: 0.1.0
 generated: "2023-01-09T16:46:30.236065284+07:00"
